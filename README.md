@@ -35,3 +35,15 @@ Am pornit de la interfața BillingStrategy, unde am declarat metoda de calcul fi
 În final, am făcut o simulare a proiectului în clasa DeliveryManager. Aici am creat 3 comenzi diferite folosind atribute precum distance (double) și isRaining (boolean), tocmai pentru a simula situații diverse din viața reală. 
 
 Prin Factory se alege tipul de curier potrivit, iar prin Strategy se aplică taxa corectă. De asemenea, am creat metoda statică processOrder(), în care verific existența unui curier alocat, preiau costul de bază, aplic strategia pentru prețul final, calculez timpul estimat și afișez toate aceste aspecte pentru client.
+
+**Scenariul 1: Bicicletă (Distanță scurtă / vreme bună)**
+
+<img src="Homework2_img1.png" width="400">
+
+**Scenariul 2: Motocicletă (Distanță medie / ploaie)**
+
+<img src="Homework2_img2.png" width="400">
+
+**Scenariul 3: Mașină (Distanță mare / ploaie)**
+
+<img src="Homework2_img3.png" width="400">
