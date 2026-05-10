@@ -1,5 +1,4 @@
 # Delivery Management System
-## Homework 2 (Design Patterns)
 
 De când sunt student la Cluj am început să folosesc foarte mult serviciul de delivery, atât din comoditate, cât și din ușurința cu care mâncarea ajunge la mine la ușă. Cu toate acestea, am observat cât de dinamic fluctuează prețul la livrare și astfel mi-a venit ideea să implementez un program în Java care să facă managementul unei firme de delivery.
 
